@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/dialog.dir/sources/dialog.cpp.o CMakeFiles/dialog.dir/sources/main.cpp.o -o dialog  "/mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab3/task1/task/cmake-build-debug/libtask.a" 

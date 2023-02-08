@@ -1,0 +1,13 @@
+# ninja log v5
+7	588	6935036503756047	CMakeFiles/dialog.dir/sources/main.cpp.obj	67552969e619cedf
+8	416	6934994240634628	CMakeFiles/vector.dir/sources/myVector.cpp.obj	146b1fb33024ddd8
+7	231	6935063072420927	dialog.exe	b63f8f5da70bb588
+6	2587	6935054644266504	CMakeFiles/dialog.dir/sources/dialog.cpp.obj	859af0e71d8aec76
+8	57	6934993970062976	CMakeFiles/dialog.dir/sources/myVector.cpp.obj	a5cec120362e61ba
+1	150	6964987054129634	build.ninja	b5336c130859df1e
+13	3277	6934994268194629	CMakeFiles/vector.dir/sources/main.cpp.obj	3851aefce6661dff
+19	1116	6964990175819322	CMakeFiles/dialog.dir/sources/main.cpp.obj	67552969e619cedf
+16	1384	6964990178465013	CMakeFiles/dialog.dir/sources/dialog.cpp.obj	859af0e71d8aec76
+1384	1702	6964990181535672	dialog.exe	b63f8f5da70bb588
+0	1370	6964990226910963	CMakeFiles/main.dir/sources/main.cpp.obj	9ac17f39212baf4b
+1371	1529	6964990228362011	main.exe	b0347eab046aecd2

@@ -1,0 +1,3 @@
+/mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/externalCodeApp/cmake-build-debug/CMakeFiles/externalCodeApp.dir
+/mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/externalCodeApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/externalCodeApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

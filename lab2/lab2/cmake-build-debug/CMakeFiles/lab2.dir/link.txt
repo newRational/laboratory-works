@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/lab2.dir/sources/main.cpp.o CMakeFiles/lab2.dir/sources/dialog.cpp.o -o lab2  "/mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab2/task/lib/libtask.a" 

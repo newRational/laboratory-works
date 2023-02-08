@@ -1,0 +1,4 @@
+/mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab2/task/cmake-build-debug/CMakeFiles/task.dir
+/mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab2/task/cmake-build-debug/CMakeFiles/main.dir
+/mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab2/task/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab2/task/cmake-build-debug/CMakeFiles/rebuild_cache.dir

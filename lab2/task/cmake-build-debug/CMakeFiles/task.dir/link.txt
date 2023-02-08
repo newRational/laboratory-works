@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtask.a CMakeFiles/task.dir/sources/Tractrix.cpp.o CMakeFiles/task.dir/sources/Point.cpp.o
+/usr/bin/ranlib libtask.a

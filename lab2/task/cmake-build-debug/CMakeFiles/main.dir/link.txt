@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/main.dir/sources/Tractrix.cpp.o CMakeFiles/main.dir/sources/Point.cpp.o -o main 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/test.dir/main.cpp.o -o test  "/mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab2/task/lib/libtask.a" lib/libgtest.a lib/libgtest_main.a lib/libgtest.a 

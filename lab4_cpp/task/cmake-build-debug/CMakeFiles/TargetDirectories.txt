@@ -1,0 +1,3 @@
+C:/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab4_cpp/task/cmake-build-debug/CMakeFiles/task.dir
+C:/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab4_cpp/task/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab4_cpp/task/cmake-build-debug/CMakeFiles/rebuild_cache.dir

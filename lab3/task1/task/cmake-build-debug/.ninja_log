@@ -1,0 +1,16 @@
+# ninja log v5
+5	630	6876550018606192	CMakeFiles/task.dir/sources/main.cpp.obj	2d7d72628f8afed9
+1	1533	6876115505276109	CMakeFiles/task.dir/sources/Element.cpp.obj	2dd31ad6e4561e35
+8	1985	6876549715655845	CMakeFiles/task.dir/sources/Diagram.cpp.obj	eaf9e7f7cc3e3fa4
+630	739	6876550019666173	task.exe	5ed4ece5a5390263
+10	1736	6876604988331753	CMakeFiles/task.dir/sources/main.cpp.obj	2d7d72628f8afed9
+8	1944	6876604990371751	CMakeFiles/task.dir/sources/Diagram.cpp.obj	eaf9e7f7cc3e3fa4
+5	1965	6876604990741745	CMakeFiles/task.dir/sources/dialog.cpp.obj	63ea10db4d2e1c57
+1966	2508	6876604995856901	task.exe	1abe964441f716d8
+10	591	6876607295154349	CMakeFiles/task.dir/sources/main.cpp.obj	2d7d72628f8afed9
+7	722	6876607296464343	CMakeFiles/task.dir/sources/dialog.cpp.obj	63ea10db4d2e1c57
+723	830	6876607297464333	task.exe	1abe964441f716d8
+4	1106	6876607833075984	CMakeFiles/task.dir/sources/dialog.cpp.obj	63ea10db4d2e1c57
+1107	1381	6876607835125973	task.exe	1abe964441f716d8
+6	1713	6876607977981521	CMakeFiles/task.dir/sources/dialog.cpp.obj	63ea10db4d2e1c57
+1713	1873	6876607979441499	task.exe	1abe964441f716d8

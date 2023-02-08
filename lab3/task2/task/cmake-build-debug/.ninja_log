@@ -1,0 +1,5 @@
+# ninja log v5
+5	3110	6876688320875869	CMakeFiles/task.dir/sources/Element.cpp.obj	4e68d05000453f68
+6	947	6876802032093913	CMakeFiles/task.dir/sources/Diagram.cpp.obj	c59a9635750ba639
+768	1144	6876811116191471	task.exe	1abe964441f716d8
+2	53	6877097015362508	libtask.a	e812c9ef5da601cd

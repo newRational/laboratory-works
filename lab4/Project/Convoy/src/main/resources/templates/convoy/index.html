@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="https://thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Convoy</title>
+</head>
+
+<body>
+    <p>CONVOY IS HERE</p>
+    <table border="0">
+        <tr>
+            <td th:each="transport-ship : ${transport-ships}">
+                <img src="C:\iX НИЯУ МИФИ\3 СЕМЕСТР\ООП\labs\lab4\Project\Convoy\src\main\resources\static\ships\transport\transport.png">
+            </td>
+        </tr>
+
+        <tr>
+            <td th:each="transport-ship : ${transport-ships}">
+                <img src="C:\iX НИЯУ МИФИ\3 СЕМЕСТР\ООП\labs\lab4\Project\Convoy\src\main\resources\static\ships\guard\guard.png">
+            </td>
+        </tr>
+
+        <tr>
+            <td th:each="transport-ship : ${transport-ships}">
+                <img src="C:\iX НИЯУ МИФИ\3 СЕМЕСТР\ООП\labs\lab4\Project\Convoy\src\main\resources\static\ships\warship\warship.png">
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>

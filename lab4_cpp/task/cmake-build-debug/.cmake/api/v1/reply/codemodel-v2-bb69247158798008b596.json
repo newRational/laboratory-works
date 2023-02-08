@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "task",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "task::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task-Debug-e30c5b0e1c6689d6008b.json",
+					"name" : "task",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/iX \u041d\u0418\u042f\u0423 \u041c\u0418\u0424\u0418/3 \u0421\u0415\u041c\u0415\u0421\u0422\u0420/\u041e\u041e\u041f/labs/lab4_cpp/task/cmake-build-debug",
+		"source" : "C:/iX \u041d\u0418\u042f\u0423 \u041c\u0418\u0424\u0418/3 \u0421\u0415\u041c\u0415\u0421\u0422\u0420/\u041e\u041e\u041f/labs/lab4_cpp/task"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

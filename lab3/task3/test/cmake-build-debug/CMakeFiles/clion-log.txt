@@ -1,0 +1,10 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /bin/bash -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd '/mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab3/task3/test/cmake-build-debug' && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G 'CodeBlocks - Unix Makefiles' -S '/mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab3/task3/test' -B '/mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab3/task3/test/cmake-build-debug'; exitcode=$?; sleep 0.001; (exit $exitcode)"
+-- Found Python: /usr/bin/python3.10 (found version "3.10.4") found components: Interpreter 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/iX НИЯУ МИФИ/3 СЕМЕСТР/ООП/labs/lab3/task3/test/cmake-build-debug

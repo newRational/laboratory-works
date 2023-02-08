@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtask.a CMakeFiles/task.dir/sources/Element.cpp.o CMakeFiles/task.dir/sources/Diagram.cpp.o
+/usr/bin/ranlib libtask.a
